@@ -1,0 +1,12 @@
+﻿  view.c
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(83,3): warning C4013: 'optionMenu' indefinido; assumindo extern retornando int
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(27,22): warning C4101: 'jogador1': variável local não referenciada
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(29,22): warning C4101: 'buy': variável local não referenciada
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(26,22): warning C4101: 'pieces': variável local não referenciada
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(30,9): warning C4101: 'j': variável local não referenciada
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(30,6): warning C4101: 'i': variável local não referenciada
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(28,22): warning C4101: 'jogador2': variável local não referenciada
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(30,12): warning C4101: 'stats_pieces': variável local não referenciada
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(86): warning C4716: 'gameMenu': deve retornar um valor
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\view.c(171): warning C4716: 'optionMenu': deve retornar um valor
+  Domino.vcxproj -> D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\x64\Debug\Domino.exe
