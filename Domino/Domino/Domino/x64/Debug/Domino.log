@@ -1,0 +1,6 @@
+﻿  controller.c
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\controller.c(26,9): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\controller.c(65,2): warning C4013: 'showPiecesTable' indefinido; assumindo extern retornando int
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\controller.c(125): warning C4716: 'showPiecesPlayer1': deve retornar um valor
+D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\Domino\controller.c(147): warning C4716: 'showPiecesPlayer2': deve retornar um valor
+  Domino.vcxproj -> D:\Códigos_Programação\Códigos\Visual_Studio_2022\Domino\x64\Debug\Domino.exe
